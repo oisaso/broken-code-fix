@@ -1,5 +1,7 @@
 # Bug-fix demo — broken AI-style code, before and after
 
+![tests](https://github.com/oisaso/broken-code-fix/actions/workflows/tests.yml/badge.svg)
+
 **What it proves:** you can take plausible AI-generated code with six real
 defects, reproduce each failure with a test, fix it without changing behavior,
 and explain every root cause in plain English. This is the proof piece for the
